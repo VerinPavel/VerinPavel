@@ -2,7 +2,7 @@
 
 ### :man_technologist: About me:
 
-React developer &ensp;| &ensp;16 months of commercial experience <img src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" width="30px"> &ensp;
+React developer &ensp;| &ensp;More than 2 yaers of commercial experience <img src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" width="30px"> &ensp;
 
 
 ---
